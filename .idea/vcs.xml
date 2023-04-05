@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/中央端后端/csti_fl_system" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/中央端后端/csti_fl_system_new" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/边缘端数据服务/fl_dataset_edge" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/边缘端模型服务/csti_fl_system_edge" vcs="Git" />
+  </component>
+</project>
